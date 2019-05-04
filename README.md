@@ -1,14 +1,14 @@
 ## Welcome to Ukaraine
 
-You can use the [editor on GitHub](https://github.com/OlhaHutsuliak/Beauty-of-Ukraine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this website you can find a lot of useful and interesting information about Ukraine beginning with its history and ending with the most beautiful places you can visit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###General history 
 
-```markdown
+The history of Ukraine is very interesting and in the same time it's difficult and painful.
+ 
+ The first mention of Ukraine was in the 
 Syntax highlighted code block
 
 # Header 1
