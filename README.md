@@ -4,14 +4,9 @@ On this website you can find a lot of useful and interesting information about U
 
 
 
-###General history 
-
-The history of Ukraine is very interesting and in the same time it's difficult and painful.
- 
- The first mention of Ukraine was in the 
-Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
 ### Header 3
 
